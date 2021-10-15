@@ -93,3 +93,5 @@ readStringUntil()
 setTimeout()
 write()
 serialEvent()
+
+Sourced From: https://www.arduino.cc/reference/en/language/functions/communication/serial/
